@@ -8,7 +8,7 @@ Convolutional Neural Network identifying pictures as being hero or villain image
 * [Final thoughts and conclusion](#final-thoughts-and-conclusion)
 
 ## General Info
-The presentation can be found [here](https://www.youtube.com/). 
+The presentation can be found [here](https://youtu.be/9xt1g0aqgU0). 
 
 The main goal of this project is to develop a Machine learning model that can take an image and correctly identify it as a hero or villain.
 
